@@ -1,0 +1,14 @@
+= Libreria para Módulo IT100 DSC =
+
+Esta libreria permite el control de paneles de alarmas de la marca DSC, a traves del módulo de conexión serie
+de la misma marca IT100
+
+El módulo IT100, va conectado al bus del sistema de alarma convirtiendo los comandos de este a comandos que 
+pueden ser leidos por un puerto serie.
+
+== Licencia ==
+
+Copyright (c) 2020 Prodoelec
+
+Esta libreria es de uso publico y totalmente gratuita.
+
